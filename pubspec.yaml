@@ -40,7 +40,7 @@ dependencies:
   google_fonts: ^6.3.0 # Or latest version
 
   cupertino_icons: ^1.0.6
-  firebase_dynamic_links: ^6.1.10
+  #firebase_dynamic_links: ^6.1.10
   shared_preferences: ^2.5.3
 
 dev_dependencies:
@@ -54,15 +54,9 @@ dev_dependencies:
   geolocator: ^14.0.2 
   uuid: ^4.3.3
   geocoding: ^2.0.1 # For reverse geocoding
-  firebase_core: ^3.15.2
-  firebase_auth: ^5.7.0
-  firebase_storage: 
-  cloud_firestore: ^5.6.12
-  firebase_messaging: ^15.2.10
   #firebase_admin: any # For Firebase Admin SDK
-  cloud_functions: ^5.1.1 # For Cloud Functions
   #provider: ^6.1.5
-  google_sign_in: ^6.1.0 # For Google Sign-In
+  #google_sign_in: ^6.1.0 # For Google Sign-In
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
