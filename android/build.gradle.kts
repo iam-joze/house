@@ -13,7 +13,6 @@ buildscript { // <--- ADDED: This block is for defining build script dependencie
     dependencies { // <--- ADDED: This dependencies block is specifically for the buildscript
         classpath("com.android.tools.build:gradle:8.1.2") // Your Android Gradle Plugin version
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.20") // Your Kotlin version
-        classpath("com.google.gms:google-services:4.4.2") // Google Services plugin
     }
 }
 
